@@ -1,0 +1,10 @@
+.hero{
+    background: linear-gradient(to right, #8d0202 30%, #ff7b00 70%);
+}
+.carousel-control-prev,.carousel-control-next{
+    background: linear-gradient(to left, #8d0202 30%, #ff7b00 70%);
+}
+.carousel{
+    height: 500px;
+    object-fit: cover;
+}
